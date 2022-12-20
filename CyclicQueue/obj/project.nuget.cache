@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgNVYnqxc2KsE2qRYA4RhjeHnqenUrVtdGGiYDPzmSB6EMzFtBB6GoKD3+QrorVXRmngPU6FSkkBNfNrNGtpCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krist\\desktop\\pop\\CyclicQueue\\CyclicQueue.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+   
+    <FSharpTargetsPath>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\FSharp\Microsoft.FSharp.Targets</FSharpTargetsPath>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="simulate.fsi" />	
+    <Compile Include="simulate.fs" />
+    <Compile Include="testSimulate.fs" />
+  </ItemGroup>
+
+</Project>
